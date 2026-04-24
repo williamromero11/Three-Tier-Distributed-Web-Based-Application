@@ -30,3 +30,26 @@ The application includes server-side business logic implemented in the root-leve
 # Technologies Used
 
 This project was developed using Java Servlets and JSP for backend and frontend integration. Apache Tomcat is used as the web server to deploy and run the application. MySQL is used as the database management system, and JDBC is used for database connectivity. HTML and CSS are used to design the user interfaces.
+
+`` 
+Project-4/
+│
+├── index.html (authentication page)
+├── errorpage.html
+│
+├── rootHome.jsp
+├── clientHome.jsp
+├── dataEntryHome.jsp
+├── accountantHome.jsp
+│
+├── WEB-INF/
+│   ├── web.xml
+│   ├── classes/ (servlets)
+│   ├── lib/ (JDBC driver)
+│   └── conf/
+│       ├── root.properties
+│       ├── client.properties
+│       ├── dataentry.properties
+│       ├── accountant.properties
+│       └── system.properties
+``
