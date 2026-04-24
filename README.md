@@ -61,4 +61,8 @@ Next, place the project folder inside the Tomcat webapps directory. Start the To
 . From there, users can log in and interact with the system based on their assigned role.
 
 # Screenshots 
-Screenshots are found \Project-4.zip\Project-4\Screenshots.pdf
+Screenshots are found on \Project-4.zip\Project-4\Screenshots.pdf
+
+# Key Concepts Demonstrated
+
+This project demonstrates important concepts such as three-tier architecture, role-based access control, JDBC database connectivity, prepared and callable statements, server-side business logic, and full-stack web application deployment using Tomcat.
