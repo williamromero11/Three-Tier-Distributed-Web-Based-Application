@@ -60,3 +60,5 @@ To run this project, first set up the database by executing the required SQL scr
 Next, place the project folder inside the Tomcat webapps directory. Start the Tomcat server and open a browser to access the application at http://localhost:8080/Project-4
 . From there, users can log in and interact with the system based on their assigned role.
 
+# Screenshots 
+Screenshots are found \Project-4.zip\Project-4\Screenshots.pdf
