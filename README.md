@@ -53,3 +53,10 @@ Project-4/
 │       ├── accountant.properties
 │       └── system.properties
 ```
+# Setup Instructions
+
+To run this project, first set up the database by executing the required SQL scripts in the correct order. Begin with the project4 database script, followed by the credentials database script, and then the script that creates user permissions. After that, configure the properties files for each user role as well as the system-level authentication user.
+
+Next, place the project folder inside the Tomcat webapps directory. Start the Tomcat server and open a browser to access the application at http://localhost:8080/Project-4
+. From there, users can log in and interact with the system based on their assigned role.
+
